@@ -9,6 +9,7 @@ Fatec Prof. Jessen Vidal
 **Palavras-chave:** Seguro. Aplicativo. Veículos. Localização.
 
 **Abstract** - This article get, with details, a suggestion of app that help the drivers to search for help to your vehicle, by geo location. Currently, 70% of the vehicular fleet not have anything vehicle insurance, therefore, the drivers have hardest to get a help. This app will easy in the moment that the driver to need search any automotive service, so he can continue his travel. To offer this solucion, the app will have with professionals and business partner to offer the necessary automotive service. The partners will can interact with the driver, to offer and negotiate the service through of app.
+
 **Keywords:** Insurance. App. Vehicle. Geolocation.
 
 ## Introdução
