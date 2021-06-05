@@ -74,7 +74,7 @@ Com base na proposta do aplicativo e nos recursos que serão adicionados a ele, 
 
 ## 4.6 - Exemplo de estrutura da aplicação
 
-A fim de esclarecer como as tecnologias serão interligadas entre si, abaixo há uma ilustração de como elas se comunicarão.
+A fim de esclarecer como as tecnologias serão interligadas entre si, abaixo há o fluxograma de como elas se comunicarão.
 
 ![image](./Screenshot_1.png)
 
@@ -142,7 +142,8 @@ GOOGLE. Places API. 2021. Disponível em: https://developers.google.com/maps/doc
 
 AWS. Amazon S3. 2021. Disponível em: https://aws.amazon.com/pt/s3/. Acesso em 26 mai. 2021.
 
-SOCKET IO. Documentation. 2021. Disponível em: https://socket.io/docs/v4. Acesso em 26 mai. 2021
+SOCKET IO. Documentation. 2021. Disponível em: https://socket.io/docs/v4. Acesso em 26 mai. 2021.
+
 REACT NATIVE. Introduction. 2021. Disponível em: https://reactnative.dev/docs/getting-started. Acesso em 26 mai. 2021.
 
 MONGO DB. Guides. 2021. Disponível em: https://docs.mongodb.com/guides/ . Acesso em 26 mai. 2021.
